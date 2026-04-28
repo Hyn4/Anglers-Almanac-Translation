@@ -2,7 +2,14 @@
 # Angler's Almanac - English (US) Translation File
 # Language: en-US
 # Keys format: {category}.{key}
+# Usage: anglersalmanac.{category}.{key}
 # ============================================================
+
+### book stuff
+book.name = {name}'s Angler's Almanac
+book.description = Bound to ID:
+book.item.name = Angler's Almanac
+book.item.description = Right click the bind to you
 
 ### Command general error
 cmd.error.notPlayer = This command can only be run by a player!
@@ -22,7 +29,8 @@ cmd.sim.done = Simulation complete. Check server console for breakdown.
 
 
 ### Config UI
-config.tensionBar.text = Enable TensionBar
+config.label = Anglers Almanac's Config
+config.tensionBar.text = Enable TensionBar test
 config.tensionBar.tooltip = Enabled the Stardew Valley minigame, turning it off means no no minigame
 
 config.baitRequired.text = Require Bait to fish

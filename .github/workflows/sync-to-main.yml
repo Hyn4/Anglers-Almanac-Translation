@@ -20,7 +20,7 @@ jobs:
         with:
           source_file: 'Languages/'
           destination_repo: 'rm20killer/Anglers-Almanac'
-          destination_folder: 'core/src/main/resources/Server/Languages'
+          destination_folder: 'core/src/main/resources/Server'
           user_email: 'action@github.com'
           user_name: 'SyncBot'
           commit_message: 'Sync: Updated languages from Translation repo [skip ci]'
